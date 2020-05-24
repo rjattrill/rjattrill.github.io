@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Everything you need to know about men and women - Terrace House
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Everything you have ever needed to know about men and women and the relationships between them is explained in 
+_Terrace House 2019_.  A reality TV show about the lives of 6 young men and women living in a comfortable share
+house in Japan.   Available on Netflix.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I will explain more later.
